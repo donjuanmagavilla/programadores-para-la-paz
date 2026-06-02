@@ -1,0 +1,10 @@
+Pruebas realizadas
+
+Ruta: http://localhost:3000
+Resultado: El servidor respondió con el mensaje "Servidor activo".
+
+Ruta: http://localhost:3000/saludo
+Resultado: El servidor respondió con el mensaje "Hola comunidad".
+
+Ruta: http://localhost:3000/mensaje/juan
+Resultado: El servidor respondió con el mensaje "Hola juan", tomando el nombre enviado en la URL.
