@@ -1,0 +1,1 @@
+Al enviar un reporte mediante la ruta POST /reportes, el servidor guarda la información en el array llamado reportes. Cuando se consulta la ruta GET /reportes, el servidor devuelve todos los reportes almacenados en memoria en formato JSON. De esta manera es posible registrar y consultar la información enviada por los usuarios mientras el servidor permanezca encendido.
