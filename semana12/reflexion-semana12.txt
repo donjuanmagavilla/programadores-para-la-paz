@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede facilitar la participación ciudadana y mejorar la organización de una comunidad.
+También comprendí la importancia de utilizar bases de datos para almacenar información de forma organizada.
+Aprendí cómo funciona un servidor y cómo una aplicación puede recibir y procesar información.
+Además, entendí el valor de proteger los datos personales mediante la autenticación y buenas prácticas de seguridad.
+Las herramientas de automatización permiten mejorar el seguimiento de las actividades y ahorrar tiempo.
+El trabajo con GitHub ayudó a mantener organizados los proyectos y las evidencias.
+Cada actividad mostró cómo la programación puede aplicarse a problemas reales de la comunidad.
+En conclusión, este curso fortaleció mis conocimientos sobre desarrollo de aplicaciones y el uso responsable de la tecnología para apoyar la participación ciudadana.
